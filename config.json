@@ -1,6 +1,14 @@
 {
   "Portraits": [
     {
+      "height": 5097,
+      "compressed_path": "./photos/Portraits/IMG_5708.min.jpg",
+      "width": 3398,
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/IMG_5708.placeholder.jpg",
+      "path": "./photos/Portraits/IMG_5708.jpg"
+    },
+    {
       "height": 1366,
       "compressed_path": "./photos/Portraits/IMG_4466.min.jpg",
       "width": 2048,
