@@ -13,8 +13,13 @@
       "compressed_path": "./photos/Portraits/IMG_8088.min.jpg",
       "width": 2048,
       "compressed": false,
+<<<<<<< HEAD
       "placeholder_path": "./photos/Portraits/IMG_8088.placeholder.jpg",
       "path": "./photos/Portraits/IMG_8088.jpg"
+=======
+      "placeholder_path": "./photos/Portraits/IMG_5622.placeholder.jpg",
+      "path": "../photos/Portraits/IMG_5622.jpg"
+>>>>>>> b3a0a4581c3e58164c9f7d7b78741b64ad7b88e2
     },
     {
       "height": 2048,
