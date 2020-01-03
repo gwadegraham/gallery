@@ -6,7 +6,7 @@
       "width": 2048,
       "compressed": false,
       "placeholder_path": "./photos/Portraits/IMG_5622.placeholder.jpg",
-      "path": "./photos/Portraits/IMG_5622.jpg"
+      "path": "../photos/Portraits/IMG_5622.jpg"
     },
     {
       "height": 2048,
