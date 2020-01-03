@@ -26,6 +26,14 @@
     },
     {
       "height": 2048,
+      "compressed_path": "./photos/Portraits/IMG_7573.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/IMG_7573.placeholder.jpg",
+      "path": "./photos/Portraits/IMG_7573.jpg"
+    },
+    {
+      "height": 2048,
       "compressed_path": "./photos/Portraits/IMG_8128.min.jpg",
       "width": 1365,
       "compressed": false,
@@ -47,14 +55,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Portraits/IMG_4420.placeholder.jpg",
       "path": "./photos/Portraits/IMG_4420.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Portraits/IMG_7573.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/Portraits/IMG_7573.placeholder.jpg",
-      "path": "./photos/Portraits/IMG_7573.jpg"
     },
     {
       "height": 1365,
