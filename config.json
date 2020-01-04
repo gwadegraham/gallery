@@ -41,14 +41,6 @@
       "path": "./photos/Portraits/IMG_8479.jpg"
     },
     {
-      "height": 1365,
-      "compressed_path": "./photos/Portraits/IMG_8088.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Portraits/IMG_8088.placeholder.jpg",
-      "path": "../photos/Portraits/IMG_8088.jpg"
-    },
-    {
       "height": 2048,
       "compressed_path": "./photos/Portraits/IMG_7573.min.jpg",
       "width": 1365,
@@ -138,14 +130,6 @@
     },
     {
       "height": 1366,
-      "compressed_path": "./photos/Portraits/IMG_3753.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Portraits/IMG_3753.placeholder.jpg",
-      "path": "./photos/Portraits/IMG_3753.jpg"
-    },
-    {
-      "height": 1366,
       "compressed_path": "./photos/Portraits/IMG_4405.min.jpg",
       "width": 2048,
       "compressed": false,
@@ -159,6 +143,14 @@
       "compressed": false,
       "placeholder_path": "./photos/Portraits/IMG_4393.placeholder.jpg",
       "path": "./photos/Portraits/IMG_4393.jpg"
+    },
+    {
+      "height": 1365,
+      "compressed_path": "./photos/Portraits/IMG_8088.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/IMG_8088.placeholder.jpg",
+      "path": "./photos/Portraits/IMG_8088.jpg"
     },
     {
       "height": 1366,
